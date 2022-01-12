@@ -1,0 +1,9 @@
+# Ignored files
+/.idea/
+.gradle/
+/gradle/
+/build/
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
